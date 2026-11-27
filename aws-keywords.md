@@ -290,7 +290,7 @@ For topic-wide explanations, see [README.md](README.md) and [AWS summary](aws-su
 - **Construct** - a reusable AWS CDK building block.
 - **Synthesis** - translating CDK application code into an infrastructure template.
 - **Continuous integration (CI)** - automated build and verification of changes.
-- **Continuous delivery or deployment (CD)*** - automated preparation or release of application changes.
+- **Continuous delivery or deployment (CD)** - automated preparation or release of application changes.
 - **Deployment pipeline** - stages that build, verify, and deploy software.
 - **Blue-green deployment** - switching traffic between two application environments.
 - **Canary deployment** - gradually releasing a change to a limited share of traffic.
